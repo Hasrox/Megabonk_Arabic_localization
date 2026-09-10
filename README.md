@@ -2,8 +2,7 @@
 
 Fan Arabic patch for **Megabonk 1.0.69**.
 
-Drag-and-drop install. No extra tools. Do not replace `settings.json`.
-
+Drag-and-drop install. No extra tools.
 ## Download
 
 Get the pack zip from the latest GitHub Release:
@@ -13,24 +12,10 @@ Get the pack zip from the latest GitHub Release:
 That zip is already laid out as `Megabonk_Data/...` so you can drop it on the game folder.
 
 ## Install
+just drag and drop to
+  - Steam: `steamapps/common/Megabonk/`
 
-1. Close Megabonk.
-2. Open your game folder:
-   - Steam: `steamapps/common/Megabonk/`
-3. Extract the zip. You should see a `Megabonk_Data` folder.
-4. Copy that `Megabonk_Data` folder onto the game folder and **merge / replace** when Windows asks.
-
-Files this pack overwrites:
-
-```
-Megabonk_Data/sharedassets0.assets
-Megabonk_Data/StreamingAssets/aa/catalog.json
-Megabonk_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle
-```
-
-Leave every other file alone. Especially **do not** replace `StreamingAssets/aa/settings.json`.
-
-5. Launch the game. UI should be Arabic.
+2. Launch the game. UI should be Arabic.
 
 ## Uninstall
 
@@ -38,12 +23,10 @@ Steam → Megabonk → Properties → Installed Files → Verify integrity of ga
 
 ## Credits
 
-- Original Arabic localization: **29TWK_DHM**
-- Port / 1.0.69 pack: **[@CoralTwitcher](https://twitter.com/CoralTwitcher)**
-- Repo: [Hasrox/Megabonk_Arabic_localization](https://github.com/Hasrox/Megabonk_Arabic_localization)
+- Original Arabic localization: **@29TWK_DHM**
+- Port / 1.0.69 edit pack: **[@CoralTwitcher](https://twitter.com/CoralTwitcher)**
 
 ## Notes
 
 - Built and tested against Megabonk **V 1.0.69** (2026-09-10).
 - TextMeshPro in this build is LTR, so Arabic is stored as visual presentation-form text.
-- Do not enable TMP Right-to-Left on this version (it crashes).
