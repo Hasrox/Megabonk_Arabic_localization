@@ -1,4 +1,4 @@
-# Megabonk Arabic Localization
+# Megabonk Arabic Localization #**تعريب**# 
 Fan Arabic patch for **Megabonk 1.0.69**.
 Drag-and-drop install. No extra tools.
 ## Download
