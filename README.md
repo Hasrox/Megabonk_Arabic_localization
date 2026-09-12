@@ -19,7 +19,7 @@ Get the pack zip from GitHub Releases. Both packs stay published — pick one:
 ## Uninstall
 Steam → Megabonk → Properties → Installed Files → Verify integrity of game files.
 ## Credits
-- Original Arabic localization: **@29TWK_DHM**
+- Original Arabic localization: **@MHD_KWT92**
 - Port / 1.0.69 edit pack: **[@CoralTwitcher](https://twitter.com/CoralTwitcher)**
 ## Notes
 - Built and tested against Megabonk **V 1.0.69** (2026-09-10).
