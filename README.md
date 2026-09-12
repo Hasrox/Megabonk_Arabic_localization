@@ -5,7 +5,7 @@ Drag-and-drop install. No extra tools.
 Get the pack zip from GitHub Releases. Both packs stay published — pick one:
 - **Current (v0.2):** [v0.2 — Arabic proofing / Portuguese replacement](https://github.com/Hasrox/Megabonk_Arabic_localization/releases/tag/v0.2)
  -    **DOWNLOAD ZIP :**
-    [v0.2 Arabic Megabonk zip](https://github.com/Hasrox/Megabonk_Arabic_localization/releases/download/v0.2/Megabonk_Arabic_1.0.69_proofed_v0.2_pt_handjet.zip)
+    [v0.2 Arabic Megabonk zip](https://github.com/Hasrox/Megabonk_Arabic_localization/releases/download/v0.2/NEW_v0.2._Megabonk_Arabic_game_ver_1.0.69_proofed_pt_handjet.zip)
 
     
 
